@@ -1,0 +1,2 @@
+model_checkpoint_path: "/app/kit/para/task1/variable.ckpt"
+all_model_checkpoint_paths: "/app/kit/para/task1/variable.ckpt"

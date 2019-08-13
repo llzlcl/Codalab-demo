@@ -1,0 +1,9 @@
+command: python $ingestion_program/ingestion.py $input $ouput $submission_program
+
+
+result		$output
+
+data 		$input/train
+para		$input/para
+test		$input/test
+call		$submission_program
